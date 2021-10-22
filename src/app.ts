@@ -7,7 +7,7 @@ const app = createServer();
 const port = config.get<number>('port');
 
 app.listen(port, async () => {
-	logger.info(`App is running at http://localhost:${port}`);
+	logger.info(`Server is running at: http://localhost:${port}`);
 	await connect();
 });
 
