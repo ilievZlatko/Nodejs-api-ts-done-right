@@ -1,4 +1,4 @@
-# Build a REST API with Node.js, Mongoose & TypeScript
+# REST API with Node.js, Mongoose & TypeScript (used as example)
 
 Note: This repository includes the [postman collection for the finished API](postman_collection.json)
 
